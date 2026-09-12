@@ -358,7 +358,7 @@ Compile using **Keil**, generate HEX file, and flash using **Flash Magic**.
 
 ## 👨‍💻 Author
 
-**Name:** Ankamma Vallepu  
+**Name:** Dinesh Sirisetti 
 
 
 ---
