@@ -232,9 +232,12 @@ The interrupt allows the user to switch between **Irrigation Time Setting** and 
 
 **LCD Menu Options:**
 - **1. Set Irrigation Time**
-- **2.  Temp & Humidity**
+- **2. Temp & Humidity**
+- **3. Exit**
+- **Select Option:**
 
-<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/cc91d2a1-ecf2-4683-9775-a48913385269" />
+<img width="1600" height="600" alt="WhatsApp Image 2026-09-12 at 1 09 23 PM" src="https://github.com/user-attachments/assets/68da31e8-4a82-4ae6-b8b4-6473be6f2cea" />
+
 
 
 ---
