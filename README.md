@@ -61,9 +61,7 @@ The following components are used in this project:
 
 ## 🏗️ System Architecture
 
-<img width="1181" height="1331" alt="image" src="https://github.com/user-attachments/assets/950194c3-8ad0-4c4b-8955-120cc4629773" />
-
-
+https://drive.google.com/file/d/1yLn2MnftJU-XkL79ew3Qbur8_LI0sbvz/view?usp=drivesdk
 
 ---
 
