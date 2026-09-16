@@ -61,7 +61,8 @@ The following components are used in this project:
 
 ## 🏗️ System Architecture
 
-<img width="1600" height="910" alt="WhatsApp Image 2026-09-16 at 12 39 23 PM" src="https://github.com/user-attachments/assets/bd6e8824-73c1-449c-aefd-8ef3cdb5bfa0" />
+<img width="1663" height="946" alt="ddaaa356-085d-42c7-baed-414d6f7dc8c8" src="https://github.com/user-attachments/assets/0c210344-cbf4-4eb6-9256-a384f7752632" />
+
 
 ---
 
