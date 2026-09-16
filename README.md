@@ -61,7 +61,10 @@ The following components are used in this project:
 
 ## 🏗️ System Architecture
 
-<img width="1663" height="946" alt="ddaaa356-085d-42c7-baed-414d6f7dc8c8" src="https://github.com/user-attachments/assets/0c210344-cbf4-4eb6-9256-a384f7752632" />
+<img width="1663" height="946" alt="ChatGPT Image Sep 16, 2026, 01_09_04 PM" src="https://github.com/user-attachments/assets/552b77d2-ce24-4500-aa04-70d9a2bba512" />
+
+
+
 
 
 ---
