@@ -24,7 +24,7 @@ The collected data is sent to **ThingSpeak Cloud**, and the irrigation motor is 
 - Real-time **humidity monitoring**
 - **Soil moisture detection**
 - Automatic **water pump control**
-- LCD display for local monitoring
+- LCD for local monitoring
 - IoT cloud data upload using **ESP01 Wi-Fi**
 - RTC-based timed data transmission
 - **Menu-driven user interface**
@@ -61,7 +61,7 @@ The following components are used in this project:
 
 ## 🏗️ System Architecture
 
-https://drive.google.com/file/d/1yLn2MnftJU-XkL79ew3Qbur8_LI0sbvz/view?usp=drivesdk
+<img width="1600" height="910" alt="WhatsApp Image 2026-09-16 at 12 39 23 PM" src="https://github.com/user-attachments/assets/bd6e8824-73c1-449c-aefd-8ef3cdb5bfa0" />
 
 ---
 
@@ -76,7 +76,7 @@ When the system is powered ON, the LPC2148 microcontroller initializes all requi
 - DHT11 (temperature and humidity sensor)
 - Soil moisture sensor
 - ESP01 Wi-Fi module
-- RTC (Real Time Clock)
+- RTC (Real-Time Clock)
 - Keypad
 - External interrupt
 - UART communication
